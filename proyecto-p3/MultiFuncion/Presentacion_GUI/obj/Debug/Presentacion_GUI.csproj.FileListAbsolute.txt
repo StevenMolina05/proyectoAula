@@ -1,0 +1,68 @@
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromInicio.resources
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPrincipal.resources
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromRegistrar.resources
+C:\Users\ESTUDIANTES\Documents\Visual Studio 2022\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromConsultar.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPila.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPrincipal.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromCola.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromLista.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromEntrada.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromEntrada.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPila.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPrincipal.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromCola.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromLista.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe.config
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.exe
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Presentacion_GUI.pdb
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Entidades.dll
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\bin\Debug\Entidades.pdb
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.AssemblyReference.cache
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromEntrada.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPila.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromPrincipal.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromCola.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.FromLista.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.Properties.Resources.resources
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.GenerateResource.cache
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CoreCompileInputs.cache
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.csproj.CopyComplete
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.exe
+C:\Users\steven\Downloads\Estructuras lineales\Fase3JeanPeña\Presentacion_GUI\obj\Debug\Presentacion_GUI.pdb

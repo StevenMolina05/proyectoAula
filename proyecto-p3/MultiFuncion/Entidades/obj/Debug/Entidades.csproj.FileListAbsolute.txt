@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\programacion\C#\Libreta_contactos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\Documents\Trabajos\programacion\C#\Estructuras lineales\Libreta_contactos\Entidades\obj\Debug\Entidades.pdb
